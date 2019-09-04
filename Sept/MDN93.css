@@ -1,0 +1,27 @@
+p li{
+    color: darkblue;
+    font-family: "Adobe 楷体 Std R";
+    line-height: 1.5px;
+    letter-spacing: 1px;
+}
+h2{
+    color: black;
+    text-shadow: 3px 3px 1px ghostwhite;
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+}
+html{
+    background-color: darkblue;
+}
+body{
+    width: 600px;
+    margin: 0 auto;/*0 代表元素的上下方，auto代表元素的左右 导致body居中*/
+    background-color: gainsboro;
+    padding: 0 20px 0px 20px;
+    border: 5px solid ghostwhite;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
